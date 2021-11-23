@@ -1,0 +1,58 @@
+[
+    { 
+		"regiao": "Grande Fortaleza",
+		"inscritos" : 8032 
+	},
+    { 
+		"regiao": "Sertão de Crateús",
+		"inscritos" : 5432 
+	},
+    { 
+		"regiao": "Litoral Norte",
+		"inscritos" : 323 
+	},
+    { 
+		"regiao": "Centro Sul",
+		"inscritos" : 5634 
+	},
+    { 
+		"regiao": "Vale do Jaguaribe",
+		"inscritos" : 1231 
+	},
+    { 
+		"regiao": "Sertão de Canindé",
+		"inscritos" : 646 
+	},
+    { 
+		"regiao": "Serra da Ibiapaba",
+		"inscritos" : 6542 
+	},
+    { 
+		"regiao": "Cariri",
+		"inscritos" : 2342 
+	},
+    { 
+		"regiao": "Sertão de Sobral",
+		"inscritos" : 2312 
+	},
+    { 
+		"regiao": "Litoral Leste",
+		"inscritos" : 113 
+	},
+    { 
+		"regiao": "Sertão Central",
+		"inscritos" : 535 
+	},
+    { 
+		"regiao": "Maciço de Baturité",
+		"inscritos" : 845 
+	},
+    { 
+		"regiao": "Sertão dos Inhamuns",
+		"inscritos" : 42 
+	},
+    { 
+		"regiao": "Litoral Oeste / Vale do Curu",
+		"inscritos" : 62
+	}
+]
