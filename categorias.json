@@ -1,22 +1,22 @@
 [
     {
-        "label":"Categoria A",
-        "value":"Categoria A"
+        "label": "Categoria A",
+        "value": "1"
     },
     {
-        "label":"Categoria B",
-        "value":"Categoria B"
+        "label": "Categoria B",
+        "value": "2"
     },
     {
-        "label":"Categoria C",
-        "value":"Categoria C"
+        "label": "Categoria C",
+        "value": "3"
     },
     {
-        "label":"Categoria D",
-        "value":"Categoria D"
+        "label": "Categoria D",
+        "value": "4"
     },
     {
-        "label":"Categoria E",
-        "value":"Categoria E"
+        "label": "Categoria E",
+        "value": "5"
     }
 ]
